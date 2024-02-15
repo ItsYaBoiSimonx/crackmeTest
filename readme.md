@@ -1,12 +1,12 @@
-# CrackMeTest
+# ⚒️ CrackMeTest ⚒️
 
 A basic C++ project designed to be cracked easily, following the (crackmes.one)[https://crackmes.one/] style, but open sourced.
 
-## Description
+## 📜 Description
 
 This project is intentionally created with vulnerabilities and weaknesses to make it easy to crack. It serves as a learning tool to understand basic cracking.
 
-## Getting Started
+## ⭐ Getting Started
 
 To get started with this project, follow these steps:
 
@@ -17,11 +17,11 @@ To get started with this project, follow these steps:
 4. Attempt to crack the project by exploiting the weaknesses.
 5. Document your findings and solutions.
 
-## Prerequisites
+## ⏮️ Prerequisites
 
 To run this project, you just need a C++ compiler (e.g., GCC, Clang)
 OR if you're fine with just getting a .exe file to crack, go in the releases tab.
 
-## Contact
+## 📲 Contact
 
-For any questions or inquiries, please contact me on telegram, @StraightSW
+🎉 For any questions, just contact me on telegram @StraightSW.
