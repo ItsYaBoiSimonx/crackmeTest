@@ -15,10 +15,8 @@ To get started with this project, follow these steps:
 2. Attempt to crack the project by exploiting the weaknesses and editing the asm code.
 3. Document your findings and solutions.
 
-## ⏮️ Prerequisites
-
-To run this project, you just need a C++ compiler (e.g., GCC, Clang)
-OR if you're fine with just getting a .exe file to crack, go in the releases tab.
+To run this project, you just need a **C++** compiler (e.g., **GCC**, **Clang**)
+OR if you're fine with just getting a **.exe** file to crack, go in the **releases** tab.
 
 ## 📲 Contact
 
