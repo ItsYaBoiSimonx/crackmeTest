@@ -1,4 +1,4 @@
-# Project Name
+# CrackMeTest
 
 A basic C++ project designed to be cracked easily, following the (crackmes.one)[https://crackmes.one/] style, but open sourced.
 
