@@ -1,6 +1,6 @@
 # ⚒️ CrackMeTest ⚒️
 
-A basic C++ project designed to be cracked easily, following the (crackmes.one)[https://crackmes.one/] style, but open sourced.
+A basic C++ project designed to be cracked easily, following the [crackmes.one](https://crackmes.one/) style, but open sourced.
 
 ## 📜 Description
 
@@ -10,12 +10,9 @@ This project is intentionally created with vulnerabilities and weaknesses to mak
 
 To get started with this project, follow these steps:
 
-1. Clone the repository.
-`- $ git clone https://github.com/ItsYaBoiSimonx/crackmeTest`
-2. Open the project in your preferred C++ IDE.
-3. For the full experience, DONT LOOK INTO THE TOKEN GENERATION ALGORITHM!!! you will be tasked with making a keygen.
-4. Attempt to crack the project by exploiting the weaknesses.
-5. Document your findings and solutions.
+1. Open the project in your preferred debugger (a suggestion would be [x64dbg](https://x64dbg.com/) but you need to use the bundled x32dbg, since the architecture of cpp .exe files is on 32 bits, not 64).
+2. Attempt to crack the project by exploiting the weaknesses and editing the asm code.
+3. Document your findings and solutions.
 
 ## ⏮️ Prerequisites
 
