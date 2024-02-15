@@ -11,6 +11,7 @@ This project is intentionally created with vulnerabilities and weaknesses to mak
 To get started with this project, follow these steps:
 
 1. Clone the repository.
+`- $ git clone https://github.com/ItsYaBoiSimonx/crackmeTest`
 2. Open the project in your preferred C++ IDE.
 3. For the full experience, DONT LOOK INTO THE TOKEN GENERATION ALGORITHM!!! you will be tasked with making a keygen.
 4. Attempt to crack the project by exploiting the weaknesses.
@@ -18,10 +19,8 @@ To get started with this project, follow these steps:
 
 ## Prerequisites
 
-To run this project, you need to have the following installed:
-
-- C++ compiler (e.g., GCC, Clang)
-- [Any additional dependencies or libraries]
+To run this project, you just need a C++ compiler (e.g., GCC, Clang)
+OR if you're fine with just getting a .exe file to crack, go in the releases tab.
 
 ## Contact
 
